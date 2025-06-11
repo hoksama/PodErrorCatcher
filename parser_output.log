@@ -1,0 +1,916 @@
+nohup: ignoring input
+Starting log parser, checking every 60 seconds...
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 13:48:58 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 13:54:01 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 13:54:01 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 13:54:01 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 13:54:01 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 13:54:01 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 13:59:13 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 13:59:13 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 13:59:13 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 13:59:13 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 13:59:13 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 13:59:13 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:04:27 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:04:27 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:07:15 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:04:27 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:08:01 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:04:27 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:08:43 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:04:27 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:10:14 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:09:34 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:10:14 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:09:34 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:10:14 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:09:34 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+No errors in pod: broken-nginx-two-errors
+
+=== Errors found in pod: broken ===
+2025/06/09 14:13:01 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:09:34 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:13:24 [emerg] 12#12: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:13:01 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+No errors in pod: broken-nginx
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:14:25 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:13:01 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:14:37 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:15:11 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:13:01 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:14:37 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:15:11 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:13:01 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:14:37 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:16:42 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:18:03 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:14:37 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:16:42 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:18:03 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:19:45 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:19:36 [emerg] 12#12: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:18:03 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:19:45 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:19:36 [emerg] 12#12: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:18:03 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:19:45 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:19:36 [emerg] 12#12: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:18:03 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:19:45 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:19:36 [emerg] 12#12: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:23:10 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:19:45 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:19:36 [emerg] 12#12: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:23:10 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:24:49 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:24:43 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:23:10 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:24:49 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:24:43 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:23:10 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:24:49 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:24:43 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:23:10 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:24:49 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:24:43 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:28:18 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:24:49 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:24:43 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:28:18 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:29:56 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:29:56 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:28:18 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:29:56 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:29:56 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:28:18 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:29:56 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:29:56 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:28:18 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:29:56 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:29:56 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:33:20 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:29:56 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:29:56 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:33:20 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:35:07 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:35:03 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:33:20 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:35:07 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:35:03 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:33:20 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:35:07 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:35:03 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:33:20 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:35:07 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:35:03 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:38:30 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:35:07 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:35:03 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:38:30 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:40:13 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:40:23 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:38:30 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:40:13 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:40:23 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:38:30 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:40:13 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:40:23 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:43:33 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:40:13 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:40:23 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:43:33 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:40:13 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:40:23 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:43:33 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:45:27 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:45:38 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:43:33 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:45:27 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:45:38 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:43:33 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:45:27 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:45:38 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:48:41 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:45:27 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:45:38 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:48:41 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:45:27 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:45:38 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:48:41 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:50:32 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:50:45 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:48:41 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:50:32 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:50:45 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:48:41 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:50:32 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:50:45 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:53:44 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:50:32 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:50:45 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:53:44 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:50:32 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:50:45 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:53:44 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:55:38 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:55:49 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:53:44 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:55:38 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:55:49 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:53:44 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:55:38 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:55:49 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:58:55 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:55:38 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:55:49 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:58:55 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 14:55:38 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 14:55:49 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:58:55 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 15:00:40 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 15:01:01 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:58:55 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 15:00:40 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 15:01:01 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 14:58:55 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 15:00:40 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 15:01:01 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 15:04:06 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 15:00:40 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 15:01:01 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 15:04:06 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 15:00:40 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 15:01:01 [emerg] 13#13: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 15:04:06 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
+2025/06/09 15:05:52 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken-nginx_errors.log
+
+=== Errors found in pod: broken-nginx-two-errors ===
+2025/06/09 15:06:13 [emerg] 14#14: unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+nginx: [emerg] unknown directive "invalid_directive" in /etc/nginx/nginx.conf:1
+Errors saved to logs_dataset/broken-nginx-two-errors_errors.log
+
+=== Errors found in pod: broken ===
+2025/06/09 15:04:06 [emerg] 1#1: unexpected end of parameter, expecting ";" in command line
+nginx: [emerg] unexpected end of parameter, expecting ";" in command line
+Errors saved to logs_dataset/broken_errors.log
+
+=== Errors found in pod: broken-nginx ===
