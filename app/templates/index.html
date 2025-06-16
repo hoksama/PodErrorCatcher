@@ -12,25 +12,27 @@
 </head>
 <body>
     <h2>Pod Logs and Errors</h2>
-    <table>
-        <thead>
-            <tr>
-                <th>Timestamp</th>
-                <th>Pod Name</th>
-                <th>Error</th>
-                <th>Full Log</th>
-            </tr>
-        </thead>
-        <tbody>
-            {% for log in logs %}
-            <tr>
-                <td>{{ log.timestamp }}</td>
-                <td>{{ log.pod_name }}</td>
-                <td>{{ log.error_lines }}</td>
-                <td>{{ log.full_log_snippet[:100] }}...</td>
-            </tr>
-            {% endfor %}
-        </tbody>
-    </table>
+    {% for pod_name, logs in grouped_logs.items() %}
+  <h2>{{ pod_name }}</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Timestamp</th>
+        <th>Error</th>
+        <th>Full Log</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for log in logs %}
+        <tr>
+          <td>{{ log.timestamp }}</td>
+          <td>{{ log.error_lines }}</td>
+          <td>{{ log.full_log_snippet[:100] }}...</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  <hr>
+{% endfor %}
 </body>
 </html>
